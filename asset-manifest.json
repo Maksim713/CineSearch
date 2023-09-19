@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cinesearch/static/css/main.7acaea2f.css",
+    "main.js": "/cinesearch/static/js/main.07d3183d.js",
+    "index.html": "/cinesearch/index.html",
+    "main.7acaea2f.css.map": "/cinesearch/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/cinesearch/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
